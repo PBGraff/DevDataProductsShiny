@@ -4,4 +4,4 @@ By: Philip Graff
 
 Date: October 26, 2014
 
-[Demo on shinyapps](http://www.google.com)
+[Demo on shinyapps](https://pbgraff.shinyapps.io/DevDataProductsShiny/)
